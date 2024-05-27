@@ -17,7 +17,7 @@ Power BI
 
 # Business Problems:
 
-1) Distibution of cases around hte world ?
+1) Distibution of cases around the world ?
 2) Monthly Distribution of cases ?
 3) Mental health cases in tech company ?
 4) Mental health cases in person working remotely ?
