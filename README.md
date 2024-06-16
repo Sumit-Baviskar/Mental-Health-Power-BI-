@@ -1,6 +1,6 @@
-# Mental-Health (Power-Bi)
+# :chart_with_upwards_trend: Mental-Health (Power-Bi) :chart_with_upwards_trend:
 
-# Dataset Information
+# :paperclip: Dataset Information
 
 The dataset provided is derived from a comprehensive survey conducted in 2014, which aimed to gauge attitudes towards mental health and the prevalence of mental health disorders within the technology workplace. The survey covers various aspects related to mental health, including perceptions, experiences, and responses to mental health challenges in the tech industry.
 
@@ -8,14 +8,14 @@ Participants were asked a range of questions pertaining to their own mental heal
 
 The survey data is valuable for understanding the prevalence of mental health issues within the tech industry, identifying potential challenges faced by employees, and informing strategies for promoting mental well-being in the workplace.
 
-# Dataset-
+# :paperclip: Dataset -
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
-# Tools- 
+# :paperclip: Tools  - 
 Power BI
 
 
-# Business Problems:
+# :paperclip: Business Problems:
 
 1) Distibution of cases around the world ?
 2) Monthly Distribution of cases ?
@@ -82,7 +82,7 @@ This dataset contains the following data:
 
 
 
-# Dashboard- 
+# 🔑: Dashboard- 
 
 ![mental_health_pic - Copy](https://github.com/Sumit-Baviskar/Mental-Health-Power-BI-/assets/153518735/19af0e44-2c7d-4512-a545-e0785db8bf00)
 
