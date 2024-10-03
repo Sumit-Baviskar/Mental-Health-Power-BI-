@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Mental-Health (Power-Bi) :chart_with_upwards_trend:
+# :chart_with_upwards_trend: Mental-Health (Power BI) :chart_with_upwards_trend:
 
 
 # :paperclip: **Introduction :**
