@@ -18,11 +18,23 @@ Power BI
 # :paperclip: Business Problems:
 
 1) Distibution of cases around the world ?
+
+
 2) Monthly Distribution of cases ?
+
+
 3) Mental health cases in tech company ?
+
+
 4) Mental health cases in person working remotely ?
+
+
 5) Treatable or non-treatable cases ?
+
+
 6) Mental Health Interfering levels in work
+
+
 # Understanding the dataset
 This dataset contains the following data:
 
